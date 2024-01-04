@@ -1,3 +1,4 @@
+import Footer from "./footer";
 import Navbar from "./navbar";
 
 const Landing = () => {
@@ -12,6 +13,7 @@ const Landing = () => {
       <h1 className="text-2xl mt-4">Welcome To The Grade Reporting System</h1>
       <h2 className="text-xl">Please Log In To Continue</h2>
       <button className="bg-black text-white mt-10 w-24  rounded-lg">Log In</button>
+      <Footer/>
       </>
      );
 }
