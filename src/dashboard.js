@@ -16,7 +16,7 @@ const Dashboard = () => {
     return (
         <div>
             <Navbar />
-            <h1 className="mb-12 mt-10 text-2xl">Welcome To Your Dashboard</h1>
+            <h1 className="mb-12 mt-10 text-2txl">Welcome To Your Dashboard</h1>
             <div className="flex">
                 <div className="bg-gray-800 text-white w-96 h-80 ml-80">
                     <table>
