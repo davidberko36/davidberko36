@@ -7,6 +7,7 @@ const Grades = () => {
             <Navbar/>
             <h1>Your Grades</h1>
             <div>
+                <p>Gotta keep the streak alive</p>
 
             </div>
             <Footer/>
