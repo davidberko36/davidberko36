@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Computer Science major with a passion for F1
 
 Here are a few projects I'm working on:
 
-- **[Waste Management Website](www.linkedin.com/in/david-berko-7a9748275)**: A project to streamline waste management processes, including scheduling and subscription management.
+- **[Waste Management Website](https://github.com/davidberko36/WasteManagementSystem.git)**: A project to streamline waste management processes, including scheduling and subscription management.
 
 ## 📚 Learning Aspirations
 
@@ -25,8 +25,8 @@ Feel free to reach out to me if you have any questions or just want to chat abou
 
 - [LinkedIn](www.linkedin.com/in/david-berko-7a9748275)
 - [Email](daberko364@gmail.com)
-- [Discord](@primeberks)
-- [Twitter](@d_berks22)
+- Discord: @primeberks
+- Twitter: @d_berks22
 
 Thanks for visiting my GitHub profile!
 
