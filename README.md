@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science major with a passion for F1
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, JavaScript
+- **Programming Languages:** Python, JavaScript, Java
 - **Web Frameworks:** Django, React
 - **Databases:** MongoDB, MySQL
 - **Version Control:** Git
