@@ -14,7 +14,7 @@ Currently building with **Django**, tinkering with **React**, and preparing to d
 
 - **Languages:** Python, JavaScript, Java, C++, C#
 - **Web Frameworks:** Django, React
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git (mastering branches one commit at a time)
 
 ---
